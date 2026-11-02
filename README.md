@@ -9,4 +9,3 @@ markdown
 - GitHub (контроль версий)
 - Replit (онлайн-среда для Python)
 - Google Colab (онлайн-ноутбуки)
-
